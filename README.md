@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Next.js + Bun POS Sales Client
 
-## Getting Started
+This is a simple Point-of-Sale (POS) frontend project built with [Next.js](https://nextjs.org) and powered by [Bun](https://bun.sh) — a fast JavaScript runtime and package manager.
 
-First, run the development server:
+---
+
+## View project
+![image](https://github.com/user-attachments/assets/f43a724a-0717-466d-b08f-2fa86a107b57)
+
+![image](https://github.com/user-attachments/assets/6fadf0a4-93d0-4d85-a85e-9ff13e66cc8b)
+
+![image](https://github.com/user-attachments/assets/d14a0812-1f11-46db-b127-9d7a8211b033)
+
+## ✅ Prerequisites
+
+Before you begin, make sure you have the following installed:
+
+- [Bun](https://bun.sh)
+- Git
+- (Optional) VS Code or another code editor
+
+> ⚠️ Node.js is NOT required when using Bun.
+
+---
+
+## 🔧 Install Bun
+
+If you don't have Bun installed, run the command below:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+curl -fsSL https://bun.sh/install | bash
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Installation
+1. Clone the repository: git clone ` https://github.com/ninhdan/nextjs-pos_sales-client.git `
+2. Navigate to the project directory: `cd nextjs-pos_sales-client  `
+3. Install packages in package.json: bun install
+4. Update and recompress if necessary: bun upgrade
+5. Run the application: bun run dev
+6. Open in Browser: http://localhost:3001
