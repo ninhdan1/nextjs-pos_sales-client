@@ -33,7 +33,7 @@ curl -fsSL https://bun.sh/install | bash
 
 
 ## 🚀 Installation
-1. Clone the repository: git clone ` https://github.com/ninhdan/nextjs-pos_sales-client.git `
+1. Clone the repository: git clone ` https://github.com/ninhdan1/nextjs-pos_sales-client.git `
 2. Navigate to the project directory: `cd nextjs-pos_sales-client  `
 3. Install packages in package.json: bun install
 4. Update and recompress if necessary: bun upgrade
